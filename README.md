@@ -41,9 +41,11 @@ Here is the link to the <a href="https://drive.google.com/file/d/1bPtjnA_J8-ktpm
 <br>
 From the usability test, I learned what CNN.com did well and did not do well. For example, I learned that while some features of the website, such as the recommended articles at the bottom of each article, were enjoyed, the website overall was viewed as very content and text heavy and could therefore be confusing. I also learned that some of the features that CNN.com had implemented were difficult to find, such as the individual sections on the "Biden Presidency" subpage. 
 <br>
+<br>
 **What went well and what went not well**
 <br>
 Overall, the usability test went smoothly. I was able to gain insight into the thoughts of a user with an unbiased perspective, especially because she had not used the website before. There was definitely trust between participant and moderator; she felt comfortable with voicing her thoughts and talking me through her process. However, because of our environment, there were some potential issues with sound — a helicopter flew above us for a couple of seconds. Furthermore, I did not anticipate the "Trending" section of the home page being changed in the couple of hours between the creation of my form and the time of the usability test; I had to change the task a little bit while my participant was performing rasks. 
+<br>
 <br>
 **Improving UT for the future**
 <br>
