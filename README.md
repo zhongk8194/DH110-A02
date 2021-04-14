@@ -4,7 +4,7 @@ Kelly Zhong, DH 110
 <br>
 
 ### Introduction
-CNN.com is the website of the news television channel, CNN (Cable News Network). The site communicates top news to its viewers, with content spanning a variety of topics. Such topics include US/ world news, politics, business, health, entertainment, tech, travel, sports, weather, and more. The website also promotes their live television channel through the website by alllowing website viewers to watch the channel live right on their devices.
+<a href="https://cnn.com"> CNN.com</a> is the website of the news television channel, CNN (Cable News Network). The site communicates top news to its viewers, with content spanning a variety of topics. Such topics include US/ world news, politics, business, health, entertainment, tech, travel, sports, weather, and more. The website also promotes their live television channel through the website by alllowing website viewers to watch the channel live right on their devices.
 
 When conducting the heuristic evaluation of CNN.com, I noticed issues that could hinder the site's usability. By performing a usability test for CNN.com, the site's interface and ease-of-use can be assessed. This assessment could then lead to an awareness of what issues need to be fixed and how they could be solved. Furthermore, by documenting a potential user's experience with the site, we can get a better understanding of how a typical user might use the site and deduce ways to improve their experience. 
 
