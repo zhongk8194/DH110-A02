@@ -32,7 +32,7 @@ The usability test was divided into the following steps:
 11. Demographics 
 
 ### Links 
-Here is the link to the <a href="https://forms.gle/EkG6GNJ9UXRQ98PT7"> online survey</a>. 
+Here is the link to the <a href="https://forms.gle/Nkw9h5uR2AMGibfs5"> online survey</a>. 
 <br>
 Here is the link to the pilot UT video. 
 
